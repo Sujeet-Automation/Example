@@ -2,6 +2,7 @@
 1)Name
 2)Roll
 3)Location
-
+4)SQL
+5)SQL2
 
 
